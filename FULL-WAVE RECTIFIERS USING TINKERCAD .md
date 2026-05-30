@@ -5,5 +5,11 @@
 
 
 ## TINKER CAD CIRCUIT DIAGRAM
+## WITHOUT CAPACITOR
+<img width="1600" height="581" alt="WhatsApp Image 2026-05-30 at 13 55 36 (1)" src="https://github.com/user-attachments/assets/aaec1fa3-3e4d-454e-8c02-4babb48a7048" />
+
+## WITH CAPACITOR
+<img width="1600" height="586" alt="WhatsApp Image 2026-05-30 at 13 55 36" src="https://github.com/user-attachments/assets/51e6262d-b088-4862-9529-17e221767528" />
+
 
 <img width="860" height="227" alt="image" src="https://github.com/user-attachments/assets/2cd08752-9469-424d-8283-a306c0ccac15" />
